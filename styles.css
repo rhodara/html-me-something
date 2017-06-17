@@ -46,7 +46,7 @@ table {
 
 body{
     font-family: 'Raleway', sans-serif;
- 	background: rgba(54, 25, 25, .5);
+ 	background:rgba(54, 25, 25, .5);
 	color: #fff8dc;
 	padding: 0;
 	margin-top: 20px; 
@@ -76,8 +76,8 @@ figure {
     display: block;
     margin-top: 1em;
     margin-bottom: 1em;
-    margin-left: 100px;
-    font: italic;
+    margin-left: 2em;
+    font: oblique;
     color:#fff8dc;
 
 div.topHeader
