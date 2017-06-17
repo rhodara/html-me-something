@@ -1,0 +1,92 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* ____====""""END NORMALISATION""""====____*/
+
+body{
+    font-family: 'Raleway', sans-serif;
+ 	background: rgba(54, 25, 25, .5);
+	color: #fff8dc;
+	padding: 0;
+	margin-top: 20px; 
+	margin-left: 100px;
+   margin-right: 100px;
+   line-height:1.5;
+   vlink :  #fff8dc;
+   alink:#fff8dc;
+
+	}
+h1 {
+    font-size: 2em; }
+
+h2 {
+    font-size: 1.5em; /* 30px/16=1.875em */
+}
+
+p {
+    font-size: 1.25em; /* 14px/16=0.875em */
+}
+li {
+    font-size: 1.5em; /* 30px/16=1.875em */
+    color: #fff8dc;
+}
+
+figure { 
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 100px;
+    font: italic;
+    color:#fff8dc;
+
+div.topHeader
+{
+	background-color:red;
+    height:700px;width: 1500px;
+	background-image:url('b2.jpg');
+
+}
+footer { 
+	text-align: center; 
+	}
